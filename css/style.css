@@ -1,0 +1,6 @@
+body {background-color: rgb(167, 247, 247);}
+        hr {border-bottom-style: none;
+            border-top-style: dotted;border-top-width: 8px;border-top-color:grey; 
+            border-left-style: none;border-right-style: none; 
+            width: 10% ;height: 0px;}
+        h1,h2,h3,h4  {color: rgb(0, 182, 182);}
